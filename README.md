@@ -1,10 +1,9 @@
 # spring-cloud-examples
-
-spring-cloud-euraka
-spring-cloud-openfeign
-spring-cloud-feign
-spring-cloud-zuul
-spring-cloud-hystrix
-spring-cloud-ribbon
-spring-cloud-apollo
-spring-cloud-config
+## spring-cloud-euraka（Waiting）
+## spring-cloud-openfeign（Waiting）
+## spring-cloud-feign（Waiting）
+## spring-cloud-zuul（Waiting）
+## spring-cloud-hystrix（Waiting）
+## spring-cloud-ribbon（Waiting）
+## spring-cloud-apollo（Waiting）
+## spring-cloud-config（Waiting）
