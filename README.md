@@ -7,3 +7,4 @@
 ## spring-cloud-ribbon（Waiting）
 ## spring-cloud-apollo（Waiting）
 ## spring-cloud-config（Waiting）
+## spring-cloud-dubbo（Waiting）
